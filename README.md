@@ -20,7 +20,7 @@
 </h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Skow3&style=for-the-badge" alt="profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge" alt="profile views"/>
 </p>
 
 ---
@@ -29,7 +29,7 @@
 
 <p align="center">
   <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&center=true&vCenter=true&duration=3500&color=38C2FF&size=40&height=130&width=900&lines=Hey!+I'm+Shivam Kumar;AI Engineer;IIIT MANIPUR;Welcome+to+my+GitHub+Profile!">
+    src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&center=true&vCenter=true&duration=3500&color=38C2FF&size=40&height=130&width=900&lines=Hey!+I'm+Shivam;AI Engineer+or+MAJOR;IIIT+Manipur;Welcome+to+my+GitHub+Profile!">
 </p>
 
 <p align="center">
