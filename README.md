@@ -29,7 +29,7 @@
 
 <p align="center">
   <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&center=true&vCenter=true&duration=3500&color=38C2FF&size=40&height=130&width=900&lines=Hey!+I'm+Shivam;AI Engineer+or+MAJOR;IIIT+Manipur;Welcome+to+my+GitHub+Profile!">
+    src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&center=true&vCenter=true&duration=3500&color=38C2FF&size=40&height=130&width=900&lines=Hey!+I'm+YOUR_NAME;YOUR_ROLE+or+MAJOR;Your+College+or+Company;Welcome+to+my+GitHub+Profile!">
 </p>
 
 <p align="center">
