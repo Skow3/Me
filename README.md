@@ -29,7 +29,7 @@
 
 <p align="center">
   <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&center=true&vCenter=true&duration=3500&color=38C2FF&size=40&height=130&width=900&lines=Hey!+I'm+YOUR_NAME;YOUR_ROLE+or+MAJOR;Your+College+or+Company;Welcome+to+my+GitHub+Profile!">
+    src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&center=true&vCenter=true&duration=3500&color=38C2FF&size=40&height=130&width=900&lines=Hey!+I'm+Shivam;AI+Engineer;IIIT+Manipur;Building+Intelligent+Systems+🚀">
 </p>
 
 <p align="center">
@@ -40,11 +40,12 @@
 
 ## 🚀 About Me
 
-- 🎓 **YOUR_DEGREE / FIELD**
-- 💻 Interested in **App Development / Web / AI / Systems**
-- 🔭 Currently working on **YOUR_PROJECT**
-- 🌱 Learning **YOUR_TECH_STACK**
-- ⚡ Fun fact: **SOMETHING_FUN**
+- 🤖 **AI Engineer** passionate about intelligent systems  
+- 🎓 Studying at **IIIT Manipur**  
+- 🧠 Interested in **Machine Learning, Deep Learning & Generative AI**  
+- 🔭 Currently working on **AI-powered applications**  
+- 🌱 Exploring **LLMs, MLOps & Computer Vision**  
+- ⚡ Fun fact: *I turn coffee into code* ☕💻  
 
 ---
 
@@ -78,15 +79,19 @@
 <p align="center">
   <!-- Languages -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="80"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="80"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="80"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="80"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="80"/>
 
-  <!-- Frameworks & Tools -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="80"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="80"/>
+  <!-- AI / ML -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="80"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="80"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="80"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="80"/>
+
+  <!-- Tools -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="80"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="80"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="80"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="80"/>
 </p>
 
@@ -98,13 +103,13 @@
 
 ---
 
-## 🎧 Spotify (Optional)
+## 🧠 AI Interests
 
-<p align="center">
-  <a href="https://open.spotify.com/user/YOUR_SPOTIFY_ID" target="_blank">
-    <img src="https://spotify-now-playing-gold-seven.vercel.app/api/now-playing"/>
-  </a>
-</p>
+- 🤖 Machine Learning & Deep Learning  
+- 🧬 Generative AI & LLMs  
+- 👁️ Computer Vision  
+- 🗣️ NLP  
+- ⚙️ MLOps & Model Deployment  
 
 ---
 
@@ -137,4 +142,4 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </p>
 
-<h3 align="center">✨ Thanks for visiting my profile ✨</h3>
+<h3 align="center">✨ Thanks for stopping by — let’s build intelligent systems together ✨</h3>
