@@ -20,7 +20,7 @@
 </h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge" alt="profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=Skow3&style=for-the-badge" alt="profile views"/>
 </p>
 
 ---
